@@ -1,0 +1,52 @@
+{
+  "JanKowalski": {
+    "imie": "Jan",
+    "nazwisko": "Kowalski",
+    "bilety": []
+  },
+  "JacekPlacek": {
+    "imie": "Jacek",
+    "nazwisko": "Placek",
+    "bilety": [
+      [
+        "Wschodnia",
+        "Powisle",
+        1,
+        "C",
+        "nazwa"
+      ],
+      [
+        "Wschodnia",
+        "Stadion",
+        1,
+        "A",
+        "nazwa"
+      ]
+    ]
+  },
+  "DariuszNowak": {
+    "imie": "Dariusz",
+    "nazwisko": "Nowak",
+    "bilety": []
+  },
+  "JanuszRadny": {
+    "imie": "Janusz",
+    "nazwisko": "Radny",
+    "bilety": []
+  },
+  "KarolDumin": {
+    "imie": "Karol",
+    "nazwisko": "Dumin",
+    "bilety": []
+  },
+  "KubusPuchatek": {
+    "imie": "Kubus",
+    "nazwisko": "Puchatek",
+    "bilety": []
+  },
+  "lala": {
+    "imie": "la",
+    "nazwisko": "la",
+    "bilety": []
+  }
+}
